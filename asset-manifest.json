@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/product_catalog/static/css/main.20a1b194.css",
-    "main.js": "/product_catalog/static/js/main.159be291.js",
+    "main.js": "/product_catalog/static/js/main.3b34dde2.js",
     "static/media/Mont-Regular.otf": "/product_catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "/product_catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "/product_catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
@@ -11,10 +11,10 @@
     "static/media/icon-burger-menu.svg": "/product_catalog/static/media/icon-burger-menu.744ac0b04d84e4feeeb5.svg",
     "index.html": "/product_catalog/index.html",
     "main.20a1b194.css.map": "/product_catalog/static/css/main.20a1b194.css.map",
-    "main.159be291.js.map": "/product_catalog/static/js/main.159be291.js.map"
+    "main.3b34dde2.js.map": "/product_catalog/static/js/main.3b34dde2.js.map"
   },
   "entrypoints": [
     "static/css/main.20a1b194.css",
-    "static/js/main.159be291.js"
+    "static/js/main.3b34dde2.js"
   ]
 }
